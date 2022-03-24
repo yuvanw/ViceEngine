@@ -39,11 +39,14 @@ Source: https://opengameart.org/content/space-skyboxes-0
 License: See "Attribution Instructions" in https://opengameart.org/content/space-skyboxes-0
 
 ## Learn OpenGL Textures
+Container Diffuse: https://learnopengl.com/img/textures/container.jpg
+<br>
 Container2 Diffuse: https://learnopengl.com/img/textures/container2.png
 <br>
 Container2 Specular: https://learnopengl.com/img/textures/container2_specular.png
 <br>
 Skybox: https://learnopengl.com/img/textures/skybox.zip
+<br>
 <br>
 Author: Joey de Vries (http://joeydevries.com/)
 <br>
