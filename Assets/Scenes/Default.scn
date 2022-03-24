@@ -1,0 +1,55 @@
+{
+	"Skybox":
+	{
+		"Name": "Skybox",
+		"Textures":
+		{
+			"Right": "DefaultSkybox_Right.jpg",
+			"Left": "DefaultSkybox_Left.jpg",
+			"Top": "DefaultSkybox_Top.jpg",
+			"Bottom": "DefaultSkybox_Bottom.jpg",
+			"Back": "DefaultSkybox_Back.jpg",
+			"Front": "DefaultSkybox_Front.jpg"
+		}
+	},
+	"Lights": 
+	{
+		"Directional":
+		[
+			{
+				"Name": "Directional Light",
+				"Direction": [-0.2, -1.0, -0.3],
+				"Color": [1.0, 1.0, 1.0],
+				"Intensity": 0.25
+			}
+		],
+		"Point":
+		[
+			{
+				"Name": "Point Light",
+				"Position": [0.0, 2.0, 0.0],
+				"Color": [1.0, 1.0, 1.0],
+				"Attenuation":
+				{
+					"Constant": 1.0,
+					"Linear": 0.032,
+					"Quadratic": 0.09
+				},
+				"Intensity": 0.75
+			}
+		]
+	},
+	"Models":
+	[
+		{
+			"Name": "Cube",
+			"Model": "Cube.mdl",
+			"Transform":
+			{
+				"Position": [0.0, 0.0, 0.0],
+				"Rotation": [0.0, 0.0, 0.0],
+				"Scale": [1.0, 1.0, 1.0]
+			}
+		}
+	]
+}

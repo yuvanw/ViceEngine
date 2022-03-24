@@ -1,0 +1,18 @@
+{
+	"Pipeline": 
+	{
+		"Vertex": "BlinnPhong.vert",
+		"Fragment": "BlinnPhongWithTextures.frag"
+	},
+	"Properties": 
+	{
+		"Floats":
+		{
+			"Shininess": 100.0
+		},
+		"Textures": 
+		{
+			"Diffuse": "KGirl_Diffuse.tga"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Meshes":
+	[
+		{
+			"Geometry": "Cube.obj",
+			"Material": "Default.mat"			
+		}
+	]
+}

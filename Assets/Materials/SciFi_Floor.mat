@@ -1,0 +1,19 @@
+{
+	"Pipeline": 
+	{
+		"Vertex": "BlinnPhong.vert",
+		"Fragment": "BlinnPhongWithTextures.frag"
+	},
+	"Properties": 
+	{
+		"Floats":
+		{
+			"Shininess": 100.0
+		},
+		"Textures": 
+		{
+			"Diffuse": "SciFi_Floor_Diffuse.png",
+			"Specular": "SciFi_Floor_Specular.png"
+		}
+	}
+}

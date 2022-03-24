@@ -1,0 +1,127 @@
+{
+	"Skybox":
+	{
+		"Name": "Skybox",
+		"Textures":
+		{
+			"Right": "SpaceSkybox_Right.png",
+			"Left": "SpaceSkybox_Left.png",
+			"Top": "SpaceSkybox_Top.png",
+			"Bottom": "SpaceSkybox_Bottom.png",
+			"Back": "SpaceSkybox_Back.png",
+			"Front": "SpaceSkybox_Front.png"
+		}
+	},
+	"Lights": 
+	{
+		"Directional":
+		[
+			{
+				"Name": "Directional Light",
+				"Direction": [-0.2, -1.0, -0.3],
+				"Color": [0.338, 0.691, 0.971],
+				"Intensity": 0.28
+			}
+		],
+		"Point":
+		[
+			{
+				"Name": "Point Light 1",
+				"Position": [3.3, 1.0, 4.0],
+				"Color": [1.0, 1.0, 1.0],
+				"Attenuation":
+				{
+					"Constant": 1.0,
+					"Linear": 0.032,
+					"Quadratic": 0.09
+				},
+				"Intensity": 0.89
+			},
+			{
+				"Name": "Point Light 2",
+				"Position": [10.2, 2.1, 0.9],
+				"Color": [1.0, 1.0, 1.0],
+				"Attenuation":
+				{
+					"Constant": 1.0,
+					"Linear": 0.032,
+					"Quadratic": 0.09
+				},
+				"Intensity": 0.37
+			}
+		]
+	},
+	"Models":
+	[
+		{
+			"Name": "Mutant",
+			"Model": "Mutant.mdl",
+			"Transform":
+			{
+				"Position": [3.3, -3.0, 4.0],
+				"Rotation": [0.0, 231.998, 0.0],
+				"Scale": [1.5, 1.5, 1.5]
+			}
+		},
+		{
+			"Name": "Spaceship",
+			"Model": "Spaceship.mdl",
+			"Transform":
+			{
+				"Position": [10.4, -0.3, -2.7],
+				"Rotation": [0.0, 44.6, 0.0],
+				"Scale": [1.0, 1.0, 1.0]
+			}
+		},
+		{
+			"Name": "Landing Pad",
+			"Model": "Pedestal.mdl",
+			"Transform":
+			{
+				"Position": [9.7, -2.9, -1.4],
+				"Rotation": [0.0, 44.6, 0.0],
+				"Scale": [5.0, 5.0, 5.0]
+			}
+		},
+		{
+			"Name": "Ground",
+			"Model": "SciFi_Floor.mdl",
+			"Transform":
+			{
+				"Position": [7.2, -3.0, 0.0],
+				"Rotation": [0.0, 44.6, 0.0],
+				"Scale": [10.0, 10.0, 10.0]
+			}
+		},
+		{
+			"Name": "Crate 1",
+			"Model": "Crate.mdl",
+			"Transform":
+			{
+				"Position": [0.1, -2.2, -1.1],
+				"Rotation": [0.0, 15.1, 0.0],
+				"Scale": [0.75, 0.75, 0.75]
+			}
+		},
+		{
+			"Name": "Crate 2",
+			"Model": "Crate.mdl",
+			"Transform":
+			{
+				"Position": [0.9, -0.7, -1.7],
+				"Rotation": [0.0, 37.0, 0.0],
+				"Scale": [0.75, 0.75, 0.75]
+			}
+		},
+		{
+			"Name": "Crate 3",
+			"Model": "Crate.mdl",
+			"Transform":
+			{
+				"Position": [1.6, -2.2, -2.1],
+				"Rotation": [0.0, 15.1, 0.0],
+				"Scale": [0.75, 0.75, 0.75]
+			}
+		}
+	]
+}

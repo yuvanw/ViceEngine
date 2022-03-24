@@ -1,0 +1,9 @@
+{
+	"Meshes":
+	[
+		{
+			"Geometry": "Spaceship.obj",
+			"Material": "Spaceship.mat"			
+		}
+	]
+}

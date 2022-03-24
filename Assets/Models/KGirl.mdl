@@ -1,0 +1,21 @@
+{
+	"Meshes":
+	[
+		{
+			"Geometry": "KGirl_Body.obj",
+			"Material": "KGirl.mat"			
+		},
+		{
+			"Geometry": "KGirl_Face.obj",
+			"Material": "KGirl.mat"			
+		},
+		{
+			"Geometry": "KGirl_Hair.obj",
+			"Material": "KGirl.mat"			
+		},
+		{
+			"Geometry": "KGirl_Pupils.obj",
+			"Material": "KGirl.mat"			
+		}
+	]
+}

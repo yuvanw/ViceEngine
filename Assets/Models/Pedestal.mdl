@@ -1,0 +1,9 @@
+{
+	"Meshes":
+	[
+		{
+			"Geometry": "Pedestal.obj",
+			"Material": "Pedestal.mat"			
+		}
+	]
+}

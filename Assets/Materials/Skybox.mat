@@ -1,0 +1,10 @@
+{
+	"Pipeline": 
+	{
+		"Vertex": "Skybox.vert",
+		"Fragment": "Skybox.frag"
+	},
+	"Properties": 
+	{
+	}
+}

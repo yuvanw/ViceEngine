@@ -1,0 +1,18 @@
+{
+	"Pipeline": 
+	{
+		"Vertex": "BlinnPhong.vert",
+		"Fragment": "BlinnPhong.frag"
+	},
+	"Properties": 
+	{
+		"Floats":
+		{
+			"Shininess": 100.0
+		},
+		"Colors": 
+		{
+			"Diffuse": [0.5, 0.5, 0.5]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Meshes":
+	[
+		{
+			"Geometry": "Plane.obj",
+			"Material": "SciFi_Floor.mat"			
+		}
+	]
+}

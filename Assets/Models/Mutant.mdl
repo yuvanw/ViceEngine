@@ -1,0 +1,9 @@
+{
+	"Meshes":
+	[
+		{
+			"Geometry": "Mutant.obj",
+			"Material": "Mutant.mat"			
+		}
+	]
+}
