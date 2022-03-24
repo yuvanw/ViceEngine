@@ -110,6 +110,12 @@ The following features are supported per engine module:
 ### InputCore
 - Platform-abstracted input system
 
+## Coding Style
+
+Vice Engine follows Unreal Engine's coding style guidelines:
+<br/>
+https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/CodingStandard/
+
 ## Dependencies
 
 Vice Engine uses the following third-party libraries:
