@@ -12,7 +12,8 @@
 		},
 		"Textures": 
 		{
-			"Diffuse": "KGirl_Diffuse.tga"
+			"Diffuse": "KGirl_Diffuse.tga",
+			"Specular": "White.png"
 		}
 	}
 }
