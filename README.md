@@ -8,6 +8,8 @@
 
 ![ViceEngineScreenshot](https://user-images.githubusercontent.com/21228747/159939544-b374ab80-a2ae-41ab-bc00-6bca7dfcfa3a.png)
 
+### Demo Video: https://youtu.be/oXihyyS2IR4
+
 Vice Engine is a 3D game engine designed and implemented with a from-scratch mentality and cross-platform support in mind.
 While still deep in development, Vice Engine's most notable features include a data-driven 3D renderer, a flexible scene editor, and a comprehensive, unit-tested standard library.
 See [Features](#features) for more details.
